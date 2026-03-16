@@ -42,7 +42,7 @@ export default function Footer() {
         
         <div className="pt-10 border-t border-white/5 text-[11px] font-bold text-slate-600 flex flex-col md:flex-row justify-between items-center gap-4">
           <div className="flex flex-col gap-1">
-            <p>상호명: 타임대부중계 | 대표자: 김영재 | 등록번호: 2026-경기안산-0001-대부중계</p>
+            <p>상호명: 타임대부중개 | 대표자: 김영재 | 등록번호: 2026-경기안산-0001-대부중개</p>
             <p>주소: 경기도 안산시 상록구 양지편로 38, 보은타운 6층 M.R.호 (이동)</p>
             <p>전화번호: 010-3390-5253 | 등록유효기간: 2026.01.02 ~ 2029.01.02</p>
           </div>
