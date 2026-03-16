@@ -6,10 +6,10 @@ export default function Footer() {
           <div className="max-w-md">
             <div className="flex items-center gap-3 mb-6">
               <div className="w-10 h-10 bg-choice-pink rounded-xl flex items-center justify-center text-white font-black text-xl logo-tilt">T</div>
-              <span className="text-3xl font-black text-white tracking-tighter">타임대부중계</span>
+              <span className="text-3xl font-black text-white tracking-tighter">타임대부중개</span>
             </div>
             <p className="text-slate-500 font-medium leading-relaxed mb-8">
-              타임대부중계는 안산시 정식등록업체로서 소액결제 현금화, 핸드폰결제 현금화, 상품권 매입 등 다양한 서비스를 제공하며 고객님의 신뢰를 최우선으로 합니다. 
+              타임대부중개는 안산시 정식등록업체로서 소액결제 현금화, 핸드폰결제 현금화, 상품권 매입 등 다양한 서비스를 제공하며 고객님의 신뢰를 최우선으로 합니다. 
               365일 24시간 언제나 친절하고 신속한 상담을 약속드립니다. 
               과도한 빚은 당신에게 큰 불행을 안겨줄 수 있습니다. 대출 시 귀하의 신용등급이 하락할 수 있습니다.
             </p>
